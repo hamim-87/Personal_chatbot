@@ -13,3 +13,7 @@ step 3: go to project directory and run the command.
 pip install -r requirements.txt
 ```
 
+## interface
+
+![alt text](https://github.com/hamim-87/Personal_chatbot/blob/main/assets/interface.png "interface pic")
+
